@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume Checker</string>
+    <string name="upload_resume">Upload PDF Resume</string>
+    <string name="analyzing">Analyzing…</string>
+    <string name="resume_score">Resume Score</string>
+    <string name="ats_score">ATS Score</string>
+    <string name="view_ats">View ATS Detail</string>
+    <string name="view_suggestions">View Suggestions</string>
+    <string name="job_match">Job Role Match</string>
+    <string name="history">Scan History</string>
+    <string name="no_history">No scans yet. Upload a resume to get started.</string>
+    <string name="clear_history">Clear All History</string>
+    <string name="error_pdf">Could not read PDF. Make sure it\'s a text-based PDF, not scanned.</string>
+</resources>

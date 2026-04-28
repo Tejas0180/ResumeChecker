@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#818CF8</color>
+    <color name="colorBackground">#F0F4FF</color>
+    <color name="colorCardBg">#FFFFFF</color>
+    <color name="colorChipGrayBg">#F3F4F6</color>
+    <color name="colorChipGreenBg">#D1FAE5</color>
+    <color name="colorChipPurpleBg">#EDE9FE</color>
+    <color name="colorChipRedBg">#FEE2E2</color>
+    <color name="colorError">#EF4444</color>
+    <color name="colorHeaderEnd">#7C3AED</color>
+    <color name="colorHeaderStart">#4F46E5</color>
+    <color name="colorPrimary">#4F46E5</color>
+    <color name="colorPrimaryDark">#3730A3</color>
+    <color name="colorScoreHigh">#10B981</color>
+    <color name="colorScoreLow">#EF4444</color>
+    <color name="colorScoreMid">#F59E0B</color>
+    <color name="colorSuccess">#10B981</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorText">#1E1B4B</color>
+    <color name="colorTextHint">#A1A1AA</color>
+    <color name="colorTextSecondary">#6B7280</color>
+    <color name="colorWarning">#F59E0B</color>
+    <string name="analyzing">Analyzing…</string>
+    <string name="app_name">Resume Checker</string>
+    <string name="ats_score">ATS Score</string>
+    <string name="clear_history">Clear All History</string>
+    <string name="error_pdf">Could not read PDF. Make sure it\'s a text-based PDF, not scanned.</string>
+    <string name="history">Scan History</string>
+    <string name="job_match">Job Role Match</string>
+    <string name="no_history">No scans yet. Upload a resume to get started.</string>
+    <string name="resume_score">Resume Score</string>
+    <string name="upload_resume">Upload PDF Resume</string>
+    <string name="view_ats">View ATS Detail</string>
+    <string name="view_suggestions">View Suggestions</string>
+    <style name="ActionBarTitle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="AppActionBar" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="background">@color/colorPrimary</item>
+        <item name="titleTextStyle">@style/ActionBarTitle</item>
+    </style>
+    <style name="AppButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">13dp</item>
+        <item name="android:paddingBottom">13dp</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="backgroundTint">@color/colorPrimary</item>
+    </style>
+    <style name="ScoreCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">6dp</item>
+        <item name="cardBackgroundColor">@color/colorSurface</item>
+    </style>
+    <style name="Theme.ResumeChecker" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="materialButtonStyle">@style/AppButton</item>
+        <item name="actionBarStyle">@style/AppActionBar</item>
+    </style>
+    <style name="Theme.ResumeChecker.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+</resources>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_item_suggestion.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\item_suggestion.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_suggestions.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_suggestions.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_chip_green.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_chip_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_chip_purple.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_chip_purple.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_score_circle.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_score_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_upload_dashed.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_upload_dashed.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_header_gradient.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_header_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.resumechecker.app-merged_res-35:/layout_dialog_role_picker.xml.flat",
+        "source": "com.resumechecker.app-main-37:/layout/dialog_role_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_chip_gray.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_chip_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_analysis.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_chip_red.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_chip_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_ats_detail.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_ats_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\drawable_bg_score_badge.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\drawable\\bg_score_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_job_match.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_job_match.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_item_keyword_chip.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\item_keyword_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_item_history.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\item_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tbudd\\.gradle\\daemon\\9.0-milestone-1\\com.resumechecker.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

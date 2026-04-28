@@ -1,0 +1,194 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.resumechecker"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission
+11-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:4:5-5:38
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:4:22-77
+13        android:maxSdkVersion="32" />
+13-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:5:9-35
+14    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+14-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:6:5-76
+14-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:6:22-73
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:7:5-67
+15-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:7:22-64
+16
+17    <permission
+17-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+18        android:name="com.resumechecker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="com.resumechecker.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+22
+23    <application
+23-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:9:5-43:19
+24        android:name="com.resumechecker.ResumeCheckerApp"
+24-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:10:9-41
+25        android:allowBackup="true"
+25-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:11:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\4428070d35b5908e2590b1f7977b0c86\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+27        android:debuggable="true"
+28        android:extractNativeLibs="false"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:12:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:13:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:14:9-54
+32        android:supportsRtl="true"
+32-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:15:9-35
+33        android:testOnly="true"
+34        android:theme="@style/Theme.ResumeChecker" >
+34-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:16:9-51
+35        <activity
+35-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:18:9-26:20
+36            android:name="com.resumechecker.ui.SplashActivity"
+36-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:19:13-46
+37            android:exported="true"
+37-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:20:13-36
+38            android:theme="@style/Theme.ResumeChecker.NoActionBar" >
+38-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:21:13-67
+39            <intent-filter>
+39-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:22:13-25:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:23:17-69
+40-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:23:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:24:17-77
+42-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:24:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:28:9-29:40
+46            android:name="com.resumechecker.ui.MainActivity"
+46-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:28:19-50
+47            android:exported="false" />
+47-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:29:13-37
+48        <activity
+48-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:30:9-31:40
+49            android:name="com.resumechecker.ui.AnalysisActivity"
+49-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:30:19-54
+50            android:exported="false" />
+50-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:31:13-37
+51        <activity
+51-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:32:9-33:40
+52            android:name="com.resumechecker.ui.ReportActivity"
+52-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:32:19-52
+53            android:exported="false" />
+53-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:33:13-37
+54        <activity
+54-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:34:9-35:40
+55            android:name="com.resumechecker.ui.ATSDetailActivity"
+55-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:34:19-55
+56            android:exported="false" />
+56-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:35:13-37
+57        <activity
+57-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:36:9-37:40
+58            android:name="com.resumechecker.ui.SuggestionsActivity"
+58-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:36:19-57
+59            android:exported="false" />
+59-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:37:13-37
+60        <activity
+60-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:38:9-39:40
+61            android:name="com.resumechecker.ui.JobMatchActivity"
+61-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:38:19-54
+62            android:exported="false" />
+62-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:39:13-37
+63        <activity
+63-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:40:9-41:40
+64            android:name="com.resumechecker.ui.HistoryActivity"
+64-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:40:19-53
+65            android:exported="false" />
+65-->C:\Users\tbudd\Downloads\ResumeChecker_updated\ResumeChecker\ResumeChecker\app\src\main\AndroidManifest.xml:41:13-37
+66
+67        <service
+67-->[androidx.room:room-runtime:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\7d0d62694a60ee9de188897cec2507d2\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+68            android:name="androidx.room.MultiInstanceInvalidationService"
+68-->[androidx.room:room-runtime:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\7d0d62694a60ee9de188897cec2507d2\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+69            android:directBootAware="true"
+69-->[androidx.room:room-runtime:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\7d0d62694a60ee9de188897cec2507d2\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+70            android:exported="false" />
+70-->[androidx.room:room-runtime:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\7d0d62694a60ee9de188897cec2507d2\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+71
+72        <provider
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+73            android:name="androidx.startup.InitializationProvider"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+74            android:authorities="com.resumechecker.androidx-startup"
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+75            android:exported="false" >
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+76            <meta-data
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+78                android:value="androidx.startup" />
+78-->[androidx.emoji2:emoji2:1.2.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\42a0b624719de7f264fd270db839c6e4\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+79            <meta-data
+79-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\e34d7dddcc9e1d62667baef48d40d3b8\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+80                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\e34d7dddcc9e1d62667baef48d40d3b8\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+81                android:value="androidx.startup" />
+81-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\e34d7dddcc9e1d62667baef48d40d3b8\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+82            <meta-data
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+83                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+84                android:value="androidx.startup" />
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+85        </provider>
+86
+87        <receiver
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+88            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+89            android:directBootAware="false"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+90            android:enabled="true"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+91            android:exported="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+92            android:permission="android.permission.DUMP" >
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+94                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+97                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+98            </intent-filter>
+99            <intent-filter>
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+100                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+101            </intent-filter>
+102            <intent-filter>
+102-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+103                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tbudd\.gradle\caches\9.0-milestone-1\transforms\a1c67589005762ba442722aab9349172\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+104            </intent-filter>
+105        </receiver>
+106    </application>
+107
+108</manifest>

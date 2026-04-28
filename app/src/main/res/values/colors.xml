@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand: deep indigo -->
+    <color name="colorPrimary">#4F46E5</color>
+    <color name="colorPrimaryDark">#3730A3</color>
+    <color name="colorAccent">#818CF8</color>
+
+    <!-- Backgrounds -->
+    <color name="colorBackground">#F0F4FF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorCardBg">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="colorText">#1E1B4B</color>
+    <color name="colorTextSecondary">#6B7280</color>
+    <color name="colorTextHint">#A1A1AA</color>
+
+    <!-- Status colors -->
+    <color name="colorSuccess">#10B981</color>
+    <color name="colorWarning">#F59E0B</color>
+    <color name="colorError">#EF4444</color>
+
+    <!-- Chip backgrounds -->
+    <color name="colorChipGreenBg">#D1FAE5</color>
+    <color name="colorChipRedBg">#FEE2E2</color>
+    <color name="colorChipGrayBg">#F3F4F6</color>
+    <color name="colorChipPurpleBg">#EDE9FE</color>
+
+    <!-- Score gradient colors -->
+    <color name="colorScoreHigh">#10B981</color>
+    <color name="colorScoreMid">#F59E0B</color>
+    <color name="colorScoreLow">#EF4444</color>
+
+    <!-- Header gradient start/end -->
+    <color name="colorHeaderStart">#4F46E5</color>
+    <color name="colorHeaderEnd">#7C3AED</color>
+</resources>
